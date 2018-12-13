@@ -50,3 +50,13 @@ git checkout tags/<tag 이름> -b <새로운 브랜치 이름>
 - `step-6-zuul-isolation-thread-pool` : ThreadPool을 이용한 Isolation 사용
 - `step-6-zuul-ribbon-config` : serviceId별 Ribbon 설정하기
 - `step-ended` : 실습 완료
+
+## 이전 공유 자료
+구글 드라이브 : https://drive.google.com/drive/folders/130_CEGC8FUBvcxP4g2ioynH_za1cM5Qe
+
+
+
+
+
+
+
